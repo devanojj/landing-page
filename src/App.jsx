@@ -6,35 +6,42 @@ export default function App() {
       <section className="hero">
         <div className="hero-content">
           <img src={reactLogo} alt="React logo" />
-          <h1>Build Fast with React &amp; Vite</h1>
-          <p>Kickstart your project with modern tooling and custom styling.</p>
-          <a href="#" className="btn">Get Started</a>
+          <h1>Devano Jose</h1>
+          <p>Welcome to my profile.</p>
         </div>
       </section>
 
       <section className="features">
         <div className="grid">
-          <div className="item">
-            <img src={reactLogo} alt="Build" />
-            <h2>Modern Build</h2>
-            <p>Powered by Vite for instant reloads and optimized builds.</p>
-          </div>
-        
-          <div className="item">
-            <img src={reactLogo} alt="Components" />
-            <h2>Reusable Components</h2>
-            <p>Create modular components using React.</p>
-          </div>
-          <div className="item">
-            <img src={reactLogo} alt="Styling" />
-            <h2>Easy Styling</h2>
-            <p>Simple styling with modern CSS.</p>
-          </div>
-          <div className="p-6 rounded-lg border text-center space-y-2">
-            <img src="/src/assets/react.svg" alt="Styling" className="mx-auto w-10 h-10" />
-            <h2 className="font-semibold">Tailwind Styling</h2>
-            <p>Utility-first classes for rapid custom designs.</p>
-          </div>
+          <a
+            className="item"
+            href="https://github.com/devanojj/NASA-Space-Project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2>NASA Space Project</h2>
+            <p>View on GitHub</p>
+          </a>
+
+          <a
+            className="item"
+            href="https://github.com/devanojj/EmailAPI"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2>EmailAPI</h2>
+            <p>View on GitHub</p>
+          </a>
+
+          <a
+            className="item"
+            href="https://github.com/devanojj/Python1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2>Python1</h2>
+            <p>View on GitHub</p>
+          </a>
         </div>
       </section>
     </main>
