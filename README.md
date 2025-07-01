@@ -1,7 +1,6 @@
 # React + Vite Landing Page
 
 This project contains a simple React landing page styled with TailwindCSS. It is based on the Vite starter template.
-Tailwind is integrated via the `@tailwindcss/postcss` plugin in `postcss.config.js`.
 
 ## Local development
 
