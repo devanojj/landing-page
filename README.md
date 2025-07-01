@@ -1,6 +1,6 @@
 # React + Vite Landing Page
 
-This project contains a simple React landing page styled with TailwindCSS. It is based on the Vite starter template.
+This project contains a simple React landing page styled with plain CSS. It is based on the Vite starter template.
 
 ## Local development
 
